@@ -1,0 +1,8 @@
+com\back4app\main\App.class
+com\back4app\main\LogManager.class
+com\back4app\mongo\MongoDAO.class
+com\back4app\entities\Transactions.class
+com\hibernate\factory\BuildFactory.class
+com\back4app\mongoOperation\Helpers.class
+com\back4app\main\Common.class
+com\back4app\mongoOperation\MongoOp.class
